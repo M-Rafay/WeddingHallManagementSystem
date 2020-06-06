@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Restaurant_Management_System.Booking_Info_2" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+QAEAAAAECRAAhAgIQSBAgACAMB7ICAAAHAMAQQQgIA=</HashCode>
+      <FileName>Booking Info 2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Form1">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAQAgCAAABAAAACAEAACAAAIAAgAAGQIAQAABAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Form2" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIIAAACAAABAEAACBAABCAAAYAAAAkGIIAQBBAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Form3" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>6RAAAAQQACAggBgAAAGBAAACQAAZAAgABOBHCQAAAwA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Form5">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAIAwAEAAADAEAQAAAAA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.loginDataSet1" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Restaurant_Management_System.loginDataSet1.Table1Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Restaurant_Management_System.loginDataSet1.BookingDataRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Restaurant_Management_System.loginDataSet1.Table1DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingDataRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingDataRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Restaurant_Management_System.loginDataSet1.BookingData2RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingDataDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Restaurant_Management_System.loginDataSet1.Table1RowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Restaurant_Management_System.loginDataSet1.Table1RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingData2Row" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingData2DataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Restaurant_Management_System.loginDataSet1.BookingData2RowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAyAIAAJADABAQAAAAAgCQBgAAAAAAAEADBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Payment_Info" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4RAAAAQAACRAABAAAACBCgACAEk4IBgAAHAAAYAAAAA=</HashCode>
+      <FileName>Payment Info.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Program" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.loginDataSet1TableAdapters.BookingDataTableAdapter">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.loginDataSet1TableAdapters.BookingData2TableAdapter" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.loginDataSet1TableAdapters.Table1TableAdapter" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.loginDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Restaurant_Management_System.loginDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Restaurant_Management_System.loginDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAGAAAgBABAEBAAAAMAAgABACgAAABAQgAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQIAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Restaurant_Management_System.Properties.Settings">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
